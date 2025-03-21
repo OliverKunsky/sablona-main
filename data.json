@@ -1,0 +1,18 @@
+{
+    "title": "Vitajte na našej stránke",
+    "slides": [
+      {
+        "text": "Prvý banner",
+        "image": "banner1.jpg"
+      },
+      {
+        "text": "Druhý banner",
+        "image": "banner2.jpg"
+      },
+      {
+        "text": "Tretí banner",
+        "image": "banner3.jpg"
+      }
+    ]
+  }
+  
